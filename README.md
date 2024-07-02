@@ -1,4 +1,4 @@
-Current ciphers coded
+Current ciphers coded:
 
 -Caesar cipher
 
