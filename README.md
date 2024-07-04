@@ -1,3 +1,7 @@
+The main objective of this project is to study and implement well-known ciphers.
+
+While most implementations are straightforward and not highly optimized (as specific cryptographic libraries exist for that purpose), they are sufficient for me to achieve a solid understanding of each cipher."
+
 Current ciphers coded:
 
 -Caesar cipher
