@@ -14,4 +14,4 @@ Current ciphers coded:
 -AES cipher \
 -DES cipher \
 -3DES cipher \
--RC4 cipher \
+-RC4 cipher 
