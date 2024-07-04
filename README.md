@@ -4,7 +4,7 @@ While most implementations are straightforward and not highly optimized (as spec
 
 Current ciphers coded:
 
--Caesar cipher
+-Caesar cipher \
 -Vigenere cipher
 
 -Affine cipher
